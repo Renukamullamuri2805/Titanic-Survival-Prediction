@@ -47,7 +47,7 @@ This project focuses on predicting the survival of Titanic passengers based on s
 ---
 
 ## 📁 Project Structure
-  ├── Titanic_project.ipynb # Data analysis & model training 
-  ├── titanic2.pkl # Serialized logistic regression model 
-  ├── titanic.py # Streamlit frontend app 
-  └── README.md # Project documentation
+  - Titanic_project.ipynb # Data analysis & model training
+  - titanic2.pkl # Serialized logistic regression model
+  -titanic.py # Streamlit frontend app
+  - README.md # Project documentation
