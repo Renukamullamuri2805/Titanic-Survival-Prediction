@@ -2,8 +2,6 @@
 
 A complete machine learning pipeline that predicts Titanic passenger survival using logistic regression. This project includes data analysis, model training, and an interactive Streamlit web application for real-time predictions.
 
----
-
 ##  Overview
 
 This project focuses on predicting the survival of Titanic passengers based on selected features such as **Passenger Class**, **Age**, and **Gender**. The solution includes:
